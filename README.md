@@ -1,8 +1,8 @@
 # ab
 Canton University Website Code
  
-# Server Load
+# CN Server Load
 https://ghproxy.com/https://raw.githubusercontent.com/JamieChin2020/ab/main/config.json
 
-# tyh52
-http://。COM/jd/script/config。json
+# tyh52 BACKUP
+COM/jd/script/config.json
