@@ -302,14 +302,20 @@
 	"id": "jx_mc",
 	"isConcurrent":true,
 	  "cron": "0 0 * * * * *",
-	"describe":"京喜App -> 我的 -> 京喜牧场，先将新手任务做完，再执行本脚本，不然会出现未知错误",
 	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jx_mc.js",
 	"name": "京喜牧场"
 },{
-	"id": "jd_guochuang",
-	"isConcurrent":true,
-	  "cron": "0 30 11 * * * *",
-	"describe":"特物Z|万物皆可国创",
-	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jd_guochuang.js",
-	"name": "京东国创"
+	"id": "jd_lsj",
+	"isConcurrent":false,
+	  "cron": "0 0 11 * * * *",
+	"describe":"入口 京东 频道 美食馆",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jd_lsj.js",
+	"name": "零食街"
+},{
+	"id": "jd_small_home",
+	"isConcurrent":false,
+	  "cron": "0 16 22 * * * *",
+	"describe":"京东APP我的-游戏与更多-东东小窝",
+	"url": "https://ghproxy.com/https://raw.githubusercontent.com/small-redguy/helper/main/jdresource/jd_small_home.js",
+	"name": "东东小窝"
 }]
